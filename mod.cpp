@@ -1,0 +1,13 @@
+dir = "@A3CN_Armas";
+name = "A3CN Armas Mod";
+actionName = "Website";
+action = "http://www.a3cn.com.br";
+logo = "mod.paa";
+logoOver = "mod.paa";
+tooltip = "A3CN Armas Mod";
+tooltipOwned = "A3CN Armas Mod Owned";
+overview = "A3CN Armas is a mod containing a variet of weapons";
+author = "Hippye and Laerte";
+overviewPicture = "mod.paa";
+overviewText = "A3CN Armas Mod";
+logosmall = "mod_small.paa";
